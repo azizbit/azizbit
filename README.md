@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azizbit
 - 👀 I’m interested in developing software solutions
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning node.js, formik, cypress and more
 - 📫 How to reach me: azizurrahmaan.work@gmail.com
 
 <!---
